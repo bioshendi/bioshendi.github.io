@@ -1,0 +1,26 @@
+.title{
+    color: green;
+    width: 50%;
+    margin: auto;
+    padding: 5px;
+    border: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 1em;
+    background-color: white;
+ 
+    
+}
+.box1 {
+    background-color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5x;
+    border: 10px dotted chocolate;
+    border-top: 10px green;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 36px;
+}
